@@ -3,7 +3,7 @@ import { PersonalInfo } from '@/lib/types';
 export const personalInfo: PersonalInfo = {
   name: 'Vicente Platz Morello',
   title: 'Analista de Datos',
-  location: 'Viña del Mar,Chile',
+  location: 'Chile',
   email: 'platz.vicenter@gmail.com',
   phone: '+56 9 98223559',
   linkedin: 'https://www.linkedin.com/in/luis-gim%C3%A9nez-real-a5556425b/',
